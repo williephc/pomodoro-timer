@@ -31,7 +31,7 @@ pomodoroTimerControllers.controller('pomodoroTimerController', ['$scope', '$inte
               $scope.seconds--;
             }
           }
-        }, 10);
+        }, 1000);
 
     };
 
