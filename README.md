@@ -12,11 +12,11 @@ AngularJS pomodoro timer
 
 ### Installation
 
-Install all dependecies via the following commands:
+Install all dependecies via the following command:
 
     npm install
 
-In an other terminal start the server:
+Start the server:
 
     npm start
 
